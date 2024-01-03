@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiago.santos.gomes.00@gmail.com)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-SantosG&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-SantosG&layout=compact)
 
 ## Tecnologias do meu dia-dia
 
