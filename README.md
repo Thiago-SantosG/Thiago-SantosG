@@ -24,3 +24,5 @@
 
 - [Game Random](https://game-numero-aleatorio-eight.vercel.app/)<br/>
 
+- [Calculadora](https://calculadora-eosin-zeta.vercel.app/)<br/>
+
